@@ -164,7 +164,7 @@ if (typeof Lazy !== "function") {
   oneSignalEnabled: false,
   oneSignalSDK: "https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js",
   oneSignalConfig: {
-    appId: "<appId>",
+    appId: "ba6b5bcb-9736-4d10-ba48-070cb208c1f8",
     allowLocalhostAsSecureOrigin: true
   }
 });
